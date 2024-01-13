@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'med-buddy'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E3EB4890FCB045C58B6BE50E5ED97ECD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D43FF376AC374BAAA1ABBB74F3AA3EAD }}
           package: .
