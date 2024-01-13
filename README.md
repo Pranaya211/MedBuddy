@@ -9,7 +9,7 @@ Project Link : [https://med-buddyy.azurewebsites.net/](https://med-buddyy.azurew
 Github Repository URL : [https://github.com/Pranaya211/MedBuddy](https://github.com/Pranaya211/MedBuddy)
 
 
-Web Technologies used : HTML, CSS, JS, Bootstrap
+Web Technologies used : HTML, CSS, JS, Bootstrap,
 
 IDE : VS-Code
 
