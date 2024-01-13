@@ -4,7 +4,7 @@ This is the our final project created for Microsoft Future Ready Talent Virtual 
 
 # [MedBuddy Healthcare Website with Healthbot](https://med-buddyy.azurewebsites.net/)
 
-Project Link : [MedBuddy Healthcare Website with Healthbot](https://med-buddyy.azurewebsites.net/)
+Project Link : [https://med-buddyy.azurewebsites.net/](https://med-buddyy.azurewebsites.net/)
 
 Github Repository URL : [https://github.com/Pranaya211/MedBuddy](https://github.com/Pranaya211/MedBuddy)
 
