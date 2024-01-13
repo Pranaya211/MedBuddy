@@ -2,9 +2,9 @@
 
 This is the our final project created for Microsoft Future Ready Talent Virtual Internship Program
 
-# [Medpill Healthcare Website with Healthbot](https://white-moss-0ef554e00.3.azurestaticapps.net)
+# [MedBuddy Healthcare Website with Healthbot](https://med-buddyy.azurewebsites.net/)
 
-Project Link :med-buddyy.azurewebsites.net
+Project Link : [MedBuddy Healthcare Website with Healthbot](https://med-buddyy.azurewebsites.net/)
 
 Web Technologies used : HTML, CSS, JS, Bootstrap
 
