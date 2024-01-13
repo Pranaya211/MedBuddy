@@ -6,6 +6,9 @@ This is the our final project created for Microsoft Future Ready Talent Virtual 
 
 Project Link : [https://med-buddyy.azurewebsites.net/](https://med-buddyy.azurewebsites.net/)
 
+project Vedio URL : [https://drive.google.com/file/d/1FagBlAF7g6qT3SwyJ3ncSib9Oc6h4F_i/view?usp=sharing](https://drive.google.com/file/d/1FagBlAF7g6qT3SwyJ3ncSib9Oc6h4F_i/view?usp=sharing)
+
+
 Github Repository URL : [https://github.com/Pranaya211/MedBuddy](https://github.com/Pranaya211/MedBuddy)
 
 
